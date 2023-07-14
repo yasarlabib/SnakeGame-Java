@@ -3,7 +3,7 @@ This is a classic Snake game implemented in Java. The game allows the player to 
 
 Features:
 - User-friendly graphical user interface.
-Smooth movement and controls.
+- Smooth movement and controls.
 Random generation of food items.
 Scoring system to keep track of the player's progress.
 Game over detection when the snake collides with the boundaries or itself.
